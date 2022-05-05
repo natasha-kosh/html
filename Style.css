@@ -1,0 +1,14 @@
+.fruits{
+    border: 3px solid chartreuse;
+    color: bisque;
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+}
+.cars{
+    color: aqua;
+    background-color: hotpink;
+    text-align: right;
+    border: 2px solid black;
+    padding: 10px;
+}

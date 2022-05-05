@@ -1,0 +1,16 @@
+#Cities{
+    color: black;
+    background-color: aquamarine;
+    text-align: left;
+    padding: 30px;
+}#Games{
+    color: black;
+    background-color: aqua;
+    text-align: right;
+    padding: 50px;
+ }
+ #Shoes{
+     color: mediumspringgreen;
+     background-color: darkgrey;
+     text-align: justify-all;
+ }
